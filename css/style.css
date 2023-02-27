@@ -314,18 +314,17 @@ label {
 }
 
 .blits-button {    
-    width: 50px;
-    min-height: 50px;
+    width: 100px;
+    min-height: 30px;
     text-decoration: none;    
     color: #FFFFFF;
     background-color: #c7d410;    
-    border: none;
+    border: 1px solid #FFFFFF;
     font-family: 'caveat';
     font-style: normal;
     font-weight: 400;    
     cursor: pointer;
-    box-shadow: 0 6px 10px 0px #808080;
-    border-radius: 50%;
+    box-shadow: 0 4px 8px 0px #808080;
     transition: all 0.5s;   
 }
 
