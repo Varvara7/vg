@@ -316,15 +316,13 @@ label {
 .blits-button {    
     width: 50px;
     min-height: 50px;
-    text-decoration: none;
-    text-align: center;
+    text-decoration: none;    
     color: #FFFFFF;
     background-color: #c7d410;    
     border: none;
     font-family: 'caveat';
     font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
+    font-weight: 400;    
     cursor: pointer;
     box-shadow: 0 6px 10px 0px #808080;
     border-radius: 50%;
